@@ -1,0 +1,55 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Django
+*.sqlite3
+db.sqlite3
+staticfiles/
+local_settings.py
+
+# Environment / secrets
+.env
+.env.*
+.envrc
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Logs
+*.log
+logs/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Coverage
+htmlcov/
+.coverage
+
+# Node (se houver frontend)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Misc
+*.bak
+*.swp

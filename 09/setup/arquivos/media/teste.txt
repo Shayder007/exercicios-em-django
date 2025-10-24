@@ -1,0 +1,20 @@
+Data: 2025-10-24 00:00:00
+ID: 9f1b7c3a-4d2e-4b6a-9a84-2e7f8c1d5a6b
+
+Linha 1: Este é um texto de teste — contém várias linhas, números e caracteres aleatórios.
+Linha 2: Valor aleatório: 48291
+Linha 3: Hex: a3f5c2b7d9e0f1a4
+Linha 4: Base64: QmFzZTY0IHRlc3RlIGJsb2Nv
+Linha 5: Lorem: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Linha 6: Frase curta: teste, teste, mais um teste.
+Linha 7: CSV exemplo: nome,idade,cidade
+Linha 8: CSV exemplo: Joao,29,Sao Paulo
+Linha 9: Palavras-chave: django, media, upload, arquivo
+Linha 10: Checksum exemplo: e3b0c44298fc1c149afbf4c8996fb924
+Linha 11: Comentário: linhas geradas automaticamente para testes
+Linha 12: URL de exemplo: https://example.com/path?query=teste
+Linha 13: Unicode: São Paulo — Brasília — Ceará — Açúcar
+Linha 14: Tempo de execução simulado: 0.237s
+Linha 15: Token simulado: 4a7d1ed414474e4033ac29ccb8653d9b
+Linha 16: Observação: apague ou edite conforme necessário.
+Linha 17: Fim do arquivo de teste.
